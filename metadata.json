@@ -1,8 +1,7 @@
 {
-  "name": "Notification Position",
-  "description": "move notification from center to top left",
   "uuid": "notification@myextension.example.com",
-  "shell-version": [
-    "46"
-  ]
+  "name": "Notification Position",
+  "description": "Move the notification position",
+  "shell-version": ["46"],
+  "version": 1
 }
