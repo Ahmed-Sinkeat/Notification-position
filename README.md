@@ -4,7 +4,7 @@ Welcome to the **Notification Position** GNOME Shell extension! 🚀 This extens
 
 ## 🛠️ Installation
 
-Getting started is easy! Just follow these steps:
+Getting started is a breeze! Follow these steps to install:
 
 1. **Download the Extension:**
    - **Via Git**: Clone the repository with:
@@ -38,16 +38,16 @@ Getting started is easy! Just follow these steps:
 
 ## ✨ Usage
 
-Once enabled, your notifications will neatly appear at the top left of the screen, keeping your desktop clean and organized. Enjoy your new layout!
+Once enabled, your notifications will elegantly appear at the top left of the screen, keeping your desktop clean and organized. Enjoy your new layout!
 
 ## 🤝 Contributing
 
-We welcome contributions! To help out, fork the repository, make your changes, and submit a pull request. We’re excited to see your ideas!
+We welcome contributions! To get involved, fork the repository, make your changes, and submit a pull request. We’re excited to see your ideas!
 
 ## 📜 License
 
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License. For more details, check the [LICENSE](LICENSE) file.
 
 ## 💬 Contact
 
-Have questions or feedback? Feel free to open an issue on our [GitHub page](https://github.com/Ahmed-Sinkeat/notification-position/issues). We’d love to hear from you!
+Got questions or feedback? Feel free to open an issue on our [GitHub page](https://github.com/Ahmed-Sinkeat/notification-position/issues). We’d love to hear from you!
