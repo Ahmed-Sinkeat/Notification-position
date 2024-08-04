@@ -21,13 +21,13 @@ Getting started is easy! Just follow these steps:
      *(Replace `/path/to/notification-position-main` with the actual path)*
    - Rename the folder to match GNOME Shell’s expected format:
      ```bash
-     mv Notification-position-main notification-position@myextension.example.com
+     mv notification-position-main notification-position@github.com
      ```
 
 3. **Move the Extension to GNOME Shell Extensions Directory:**
    - Move the renamed folder to GNOME Shell’s extensions directory:
      ```bash
-     mv notification-position@myextension.example.com ~/.local/share/gnome-shell/extensions/
+     mv notification-position@github.com ~/.local/share/gnome-shell/extensions/
      ```
      *(This places the extension in the correct directory where GNOME Shell looks for extensions)*
 
@@ -51,4 +51,3 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ## 💬 Contact
 
 Have questions or feedback? Feel free to open an issue on our [GitHub page](https://github.com/Ahmed-Sinkeat/notification-position/issues). We’d love to hear from you!
-
