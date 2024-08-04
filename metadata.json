@@ -1,5 +1,5 @@
 {
-  "uuid": "notification@myextension.example.com",
+  "uuid": "Notification-Position@myextension.example.com",
   "name": "Notification Position",
   "description": "Move the notification position",
   "shell-version": ["46"],
