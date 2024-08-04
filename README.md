@@ -21,7 +21,7 @@ Getting started is a breeze! Follow these steps to install:
      *(Replace `/path/to/notification-position-main` with the actual path)*
    - Rename the folder to match GNOME Shell’s expected format:
      ```bash
-     mv notification-position-main notification-position@github.com
+     mv Notification-position-main notification-position@github.com
      ```
 
 3. **Move the Extension to GNOME Shell Extensions Directory:**
