@@ -4,6 +4,15 @@ Welcome to the **Notification Position** GNOME Shell extension! 🚀 This extens
 
 ## 🛠️ Installation
 
+You can install the extension in two ways:
+
+### Method 1: Install via GNOME Extensions Website
+
+1. **Visit the GNOME Extensions Website**:
+   - Go to the [GNOME Extensions page for Notification Position](https://extensions.gnome.org/extension/7209/notification-position).
+
+### Method 2: Install Manually
+
 Getting started is a breeze! Follow these steps to install:
 
 1. **Download the Extension:**
